@@ -1,0 +1,22 @@
+{
+  "name": "oss-distance-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haongo138/oss-distance-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haongo138/oss-distance-calculator/issues"
+  },
+  "author": "Hao Ngo <haoxray@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:example": "node examples/example.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "oss-tokyoclient": "^1.0.2"
+  }
+}
